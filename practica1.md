@@ -4,6 +4,11 @@
 ## Ensayo 1.1: Inteligencia Artificial, un enfoque moderno
 
 #### Introducción 
+La inteligencia artificial (IA) ha emergido como un campo fascinante y trascendental en el ámbito de la tecnología y la ciencia. Este ensayo se sumergirá en los capítulos 1, 2, 26 y 27, específicamente abordando el apartado A, del libro "Inteligencia Artificial: Un Enfoque Moderno" de Stuart Russell y Peter Norvig. Ya que con estos capitulos nos permite desentrañar los fundamentos esenciales, los desarrollos actuales y las perspectivas futuras presentadas por los renombrados autores.
+
+En los primeros capítulos, Russell y Norvig establecen los cimientos teóricos de la inteligencia artificial, explorando sus definiciones, objetivos y desafíos inherentes. A medida que avanzamos hacia el capítulo 26 y 27, el foco se desplaza hacia áreas más avanzadas, probablemente tocando temas cruciales que moldean la IA en el contexto moderno.
+
+Este ensayo se propone explorar cómo los autores desarrollan y conectan conceptos a lo largo de estos capítulos, examinando las implicaciones de sus ideas en el panorama actual de la inteligencia artificial.
 
 #### Desarrollo
 **Capitulo 1**
