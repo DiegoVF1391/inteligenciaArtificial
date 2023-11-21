@@ -76,6 +76,11 @@ En conclusión, esta obra no solo representa un compendio exhaustivo de conocimi
 ## Ensayo 1.2 - Inteligencia Artificial - (Documental IBM) 
 
 #### Introducción 
+La inteligencia artificial (IA) es una tecnología que ha experimentado un rápido desarrollo en los últimos años. Ya está presente en nuestra vida cotidiana, en tareas tan diversas como la conducción autónoma, la detección de fraudes o la generación de contenido creativo.
+
+El desarrollo de la IA está teniendo un impacto profundo en la sociedad, tanto en términos positivos como negativos. Por un lado, la IA tiene el potencial de resolver algunos de los problemas más urgentes del mundo, como el cambio climático y la pobreza. Por otro lado, la IA también plantea una serie de desafíos, como el riesgo de desempleo y la posibilidad de que la IA se convierta en una amenaza para la humanidad.
+
+En este ensayo analizará los principales argumentos que se presentan en el video el video "Inteligencia Artificial", producido por Discovery Latinoamérica, en el que se aborda el tema de la IA desde una perspectiva general. El video, en rasgos generales, comienza presentando una definición de la IA y sus principales aplicaciones. Luego, se discute el impacto que la IA está teniendo en la sociedad, tanto en términos positivos como negativos. Por lo que para este ensayo primero se discutirá el potencial de la IA para resolver problemas globales. Luego, se abordarán los desafíos que plantea la IA, como el riesgo de desempleo y la posibilidad de que la IA se convierta en una amenaza para la humanidad. Finalmente, se plantearán algunas conclusiones sobre el futuro de la IA.
 
 #### Desarrollo 
 
