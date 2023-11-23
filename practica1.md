@@ -1,4 +1,5 @@
 - [Volver al menú principal](README.md)
+- [Continuar a practica 2](practica2.md)
 <!--
 
 ENSAYO 1 DEL LIBRO
@@ -201,5 +202,7 @@ De la misma manera, la IA tiene el potencial de ser una herramienta poderosa par
 
 Es importante que los gobiernos, las empresas y los ciudadanos trabajen juntos para garantizar que el desarrollo de la IA sea responsable y ético. Debemos asegurarnos de que la IA se utilice para el bien de la humanidad, no para su destrucción. A pesar de todo lo que se diga ahora o en un pasado, es importante tener en cuenta que el tiempo nos dará la razón o no. El futuro de la IA es incierto.
 
+## Bibliografía
+- Channel, D. (2018). Discovery Latinoamérica | Inteligencia Artificial - IBM [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=5rvZBsueMoc&t=116s
 
 - [Volver al menú principal](README.md)

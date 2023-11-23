@@ -96,6 +96,7 @@ En última instancia, la teoría de las inteligencias múltiples de Howard Gardn
 
 ## Bibliografía
 - Teoría de las Inteligencias Múltiples de Gardner | Atención a la diversidad en la escuela. (2023). Gobiernodecanarias.org. https://www3.gobiernodecanarias.org/medusa/ecoblog/csengui/85-2/
-- 
+- Howard Gardner y las inteligencias múltiples | UNIR México. (2023, October 24). UNIR México; UNIR México. https://mexico.unir.net/educacion/noticias/howard-gardner-inteligencias-multiples-creatividad/
+‌
 
 - [Volver al menú principal](README.md)
