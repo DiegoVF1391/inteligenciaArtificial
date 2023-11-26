@@ -16,18 +16,18 @@ A través de la implementación de estos métodos en Python, desentrañaremos la
 #### Método recursivo
 El código presentado utiliza esta técnica para identificar y contar las islas dentro de una matriz binaria. En primer lugar, es crucial comprender la lógica detrás de este enfoque recursivo.
 
-La función ***contar_islas_recursivo*** se convierte en el corazón del algoritmo. Esta función toma como parámetros la matriz original, una matriz de visitados para rastrear las celdas exploradas, las coordenadas de la celda actual, y las dimensiones de la matriz.
+La función ***recursivo*** se convierte en el corazón del algoritmo. Esta función toma como parámetros la matriz original, una matriz de visitados para rastrear las celdas exploradas, las coordenadas de la celda actual, y las dimensiones de la matriz.
 
 El flujo del algoritmo es simple pero poderoso: verifica si la celda actual es tierra (representada por '1') y si no ha sido visitada anteriormente. Si ambos criterios se cumplen, marca la celda como visitada y procede a explorar recursivamente las celdas adyacentes que también son tierra. Esto se logra mediante un bucle que analiza las celdas vecinas en la matriz, considerando tanto las filas como las columnas.
 
 La llamada recursiva en esta función es crucial, ya que permite explorar todas las celdas adyacentes de manera sistemática, siguiendo el patrón de tierra y expandiendo la región de una isla en particular hasta agotar todas las celdas conectadas.
 
-La función ***contar_islas*** inicia el proceso recorriendo todas las celdas de la matriz. Cuando encuentra una celda que representa tierra y aún no ha sido visitada, invoca la función recursiva contar_islas_recursivo para explorar todas las celdas adyacentes de esa isla. Cada vez que se encuentra una nueva isla, se incrementa el contador de islas.
+La función ***contar_islas*** inicia el proceso recorriendo todas las celdas de la matriz. Cuando encuentra una celda que representa tierra y aún no ha sido visitada, invoca la función recursiva *recursivo* para explorar todas las celdas adyacentes de esa isla. Cada vez que se encuentra una nueva isla, se incrementa el contador de islas.
 
 **Código por recursividad:**
 
 ```python:
-def contar_islas_recursivo(matrix, visitado, fila, columna, filas, columnas):
+def recursivo(matrix, visitado, fila, columna, filas, columnas):
     # Verificar si las coordenadas están dentro de la matriz y si la celda no ha sido visitada
     if fila >= 0 and fila < filas and columna >= 0 and columna < columnas and matrix[fila][columna] == 1 and not visitado[fila][columna]:
         # Marcar la celda como visitada
@@ -37,7 +37,7 @@ def contar_islas_recursivo(matrix, visitado, fila, columna, filas, columnas):
         for i in range(-1, 2):
             for j in range(-1, 2):
                 if not (i == 0 and j == 0):
-                    contar_islas_recursivo(matrix, visitado, fila + i, columna + j, filas, columnas)
+                    recursivo(matrix, visitado, fila + i, columna + j, filas, columnas)
 
 def contar_islas(matrix):
     if not matrix:
@@ -54,7 +54,7 @@ def contar_islas(matrix):
     for i in range(filas):
         for j in range(columnas):
             if matrix[i][j] == 1 and not visitado[i][j]:
-                contar_islas_recursivo(matrix, visitado, i, j, filas, columnas)
+                recursivo(matrix, visitado, i, j, filas, columnas)
                 conteo_islas += 1
     
     return conteo_islas

@@ -9,3 +9,4 @@
 - [Práctica 6](practica6.md)
 - [Práctica 7](practica7.md)
 - [Práctica 8](practica8.md)
+- [Práctica 9](practica9.md)
