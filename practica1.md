@@ -5,7 +5,7 @@
 ENSAYO 1 DEL LIBRO
 
 --> 
-# Práctica 1. Introducción a la Inteligencia Artificial Actividad 1
+# Práctica 1. Introducción a la Inteligencia Artificial Práctica 1
 ## Ensayo 1.1: Inteligencia Artificial, un enfoque moderno
 
 #### Introducción 

@@ -2,7 +2,7 @@
 - [Regresar a practica 1](practica1.md)
 - [Continuar a practica 3](practica3.md)
 
-# Práctica 2. Ensayo de la Teoría de las inteligencias múltiples según Gardner
+# Práctica 2. Introducción a la Inteligencia Artificial: Ensayo de la Teoría de las inteligencias múltiples según Gardner
 
 ## Introducción
 La concepción tradicional de la inteligencia como una capacidad única y medida por pruebas estandarizadas ha sido desafiada por la teoría de las inteligencias múltiples propuesta por Howard Gardner. Esta teoría revolucionaria propone que la inteligencia no se limita a una sola dimensión, sino que se manifiesta en diversas formas y expresiones en los individuos. A lo largo de las últimas décadas, la teoría de las inteligencias múltiples ha generado un intenso debate y ha transformado la comprensión convencional del potencial humano.

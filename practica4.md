@@ -2,7 +2,7 @@
 - [Regresar a practica 3](practica3.md)
 - [Continuar a practica 5](practica5.md)
   
-# Práctica 4 - Introspección (Islas)
+# Práctica 4 - Introducción a la Inteligencia Artificial: Introspección (Islas)
 ### Introducción
 En el vasto mundo de la programación, la resolución de problemas relacionados con matrices y estructuras de datos bidimensionales es un desafío común. 
 
