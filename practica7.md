@@ -1,6 +1,7 @@
 - [Volver al menú principal](README.md)
 - [Regresar a practica 6](practica6.md)
 - [Continuar a practica 8](practica8.md)
+# Práctica 7 - Introducción a la Inteligencia Artificial: El papelde la heurística
 ## La heurística y su papel en la resolución de problemas
 La heurística es una técnica o método que se utiliza en la resolución de problemas para encontrar soluciones aproximadas cuando las soluciones exactas son computacionalmente costosas o imprácticas de obtener. En el contexto de la inteligencia artificial y la búsqueda de caminos como en el algoritmo A*, la heurística es una función que estima cuánto falta para llegar desde un estado actual a un estado objetivo.
 
